@@ -30,7 +30,7 @@ Calcula i retorna el preu final del electrodomèstic en funció del consum, el p
 ### Televisor
 ![image](https://github.com/oscarsxrrano/ProgramacioObjectes/assets/153606230/6a8a21c3-eb47-41bf-abb8-d0ba5ddeaa9c)
 
-###Exemple codi:
+### Exemple codi:
 ```kotlin
 constructor(nom: String, preuBase: Int, mida: Int, consum: Char, pes: Int): this() {
         this.nom = nom
